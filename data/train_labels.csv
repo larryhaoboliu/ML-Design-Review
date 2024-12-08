@@ -1,0 +1,4 @@
+filename,compliance,thickness
+detail_01.jpg,compliant,5.5
+detail_02.jpg,non-compliant,4
+detail_03.jpg,non-compliant,1.5
